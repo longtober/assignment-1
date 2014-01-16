@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text="@string/imageView2"
+        android:text="@string/title"
         android:textSize="40sp"
         android:textStyle="bold" />
 
@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/title"
         android:adjustViewBounds="true"
-        android:contentDescription="@string/ada_lovelace"
+        android:contentDescription="@string/title"
         android:paddingTop="8dp"
         android:src="@drawable/charles_babbage" />
 

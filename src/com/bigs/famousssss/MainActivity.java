@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
+		//Get string "content" corresponding to devide's orientation (in values and values-land)
 		String content = getResources().getString(R.string.content);
 		TextViewEx txtViewEx = (TextViewEx) findViewById(R.id.textView1);
 		txtViewEx.setText(content, true);

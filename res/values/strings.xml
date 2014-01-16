@@ -2,10 +2,7 @@
 <resources>
 
     <string name="app_name">Famousssss</string>
-    <string name="action_settings">Settings</string>
     <string name="content">Ada Lovelace. Bà trở nên nổi tiếng vì đã viết bản mô tả chiếc máy tính của Charles Babbage, nhan đề có tên The Analytical Engine. Bà cũng được xem như là lập trình viên đầu tiên trong lịch sử, tuy đây còn là một vấn đề gây tranh cãi.</string>
-    <string name="ada_lovelace">Ada Lovelace</string>
     <string name="title">Ada Lovelace</string>
-	<string name="imageView2">Charles Babbage</string>
     
 </resources>

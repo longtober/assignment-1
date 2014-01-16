@@ -24,7 +24,7 @@
         android:layout_below="@id/title"
         android:layout_centerHorizontal="true"
         android:adjustViewBounds="true"
-        android:contentDescription="@string/ada_lovelace"
+        android:contentDescription="@string/title"
         android:paddingTop="8dp"
         android:src="@drawable/ada_lovelace" />
 
